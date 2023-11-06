@@ -3,16 +3,16 @@
 ### Links
 
 - [Project Live Links : ](https://ataullah1.github.io/Fylo-data-storage-component/)
-- Solution URL: [Solution URL](https://your-solution-url.com)
+- Solution URL: [Solution URL](view-source:https://ataullah1.github.io/Fylo-data-storage-component/)
 - Live Site URL: [live site URL](https://ataullah1.github.io/Fylo-data-storage-component/)
 
 - [Author >](https://www.linkedin.com/in/md-ataullah/)
 
 ## Screenshot
 
-- [My Project Screenshot: Desktop](./design/)
-- [My Project Screenshot: Tab](./design/)
-- [My Project Screenshot: Phone](./design/)
+- [My Project Screenshot: Desktop](./design/PC.png)
+- [My Project Screenshot: Tab](./design/Tab.png)
+- [My Project Screenshot: Phone](./design/phn.png)
 
 ### Built with
 
