@@ -94,6 +94,16 @@ body {
   display: flex;
   align-items: center;
   justify-content: end;
+  animation-name: progress_animation;
+  animation-duration: 3s;
+}
+@keyframes progress_animation {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: 75%;
+  }
 }
 .r_main .progress .grediant .circel {
   height: 12px;
